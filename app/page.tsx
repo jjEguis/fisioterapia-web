@@ -1,7 +1,8 @@
+import Hero from "@/components/layout/Hero";
 export default function Home() {
   return (
     <main>
-      <h1>Fisioterapia Web</h1>
+      <Hero />
     </main>
   );
 }
