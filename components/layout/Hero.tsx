@@ -14,7 +14,7 @@ export default function Hero(){
                 priority
             />
             <div className="absolute inset-0 bg-black/20" />
-            <div className="relative z-10 h-screen px-10 py-12 pl-28 gap-40 text-white flex flex-col items-start justify-end">
+            <div className="absolute inset-0 z-10 px-10 py-12 pl-28 gap-40 text-white flex flex-col items-start justify-end">
                 <div className="flex flex-col justify-end">
                     <h1 className="text-6xl font-bold mb-4">
                         Fisioterapia para todos
